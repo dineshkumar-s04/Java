@@ -18,3 +18,6 @@ public class StrEncoding {
         System.out.println(sb.toString());
     }
 }
+
+//Output
+//a4b3c2d1
