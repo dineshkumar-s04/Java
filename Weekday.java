@@ -40,11 +40,6 @@ switch(days){
 	default:
 		System.out.println("Invalid input");
 		break;
-
 }
-
-
-
-
 }
 }
